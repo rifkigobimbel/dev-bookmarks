@@ -1,0 +1,10 @@
+{
+  "name": "Origin UI",
+  "url": "https://originui.com/",
+  "description": "Beautiful UI components built with Tailwind CSS and React.",
+  "categories": [
+    "shadcn",
+    "react",
+    "UI"
+  ]
+}
